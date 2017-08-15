@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion = 25 // The version of the Android API, i.e. SDK, the app is compiled against
+    buildToolsVersion = "25.0.2" // The downloaded version of the Build Tools used to build Android application code
+
+    defaultConfig {
+        applicationId = "org.artoolkit.ar.samples.ARSimple"
+        minSdkVersion 15 // Signals the Google Play Store as to what device, running this minimum indicated or greater version, an app can be installed on
+        targetSdkVersion 24 // Indicates the version that you have tested your app on (presumably up to and including)
+        versionCode = 5000  // Integer type incremented by 1 for every release, major or minor, to Google store
+        versionName = "5.0" // Real fully qualified major and minor release description
+
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+    }
+
+    sourceSets.main {
+        jni.srcDirs = []
+        jniLibs.srcDir 'src/main/libs'
+    }
+}
+
+dependencies {
+    //compile 'com.android.support:support-v4:23.0.1'   // Only required when the target device API level is greater than
+    //compile 'com.android.support:appcompat-v7:23.0.1' // the compile and target of the app being deployed to the device
+    compile project(':aRBaseLib')
+}

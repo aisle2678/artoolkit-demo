@@ -1,0 +1,91 @@
+Working from directory "/c/artoolkit5-master3/artoolkit5-master".
+Building on Microsoft Wins10 Desktop (x86_64)
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARSimpleNativeProj/aRSimpleNative
+[armeabi] Install        : libARWrapper.so => libs/armeabi/libARWrapper.so
+[armeabi] Install        : libARWrapperNativeExample.so => libs/armeabi/libARWrapperNativeExample.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libARWrapper.so => libs/armeabi-v7a/libARWrapper.so
+[armeabi-v7a] Install        : libARWrapperNativeExample.so => libs/armeabi-v7a/libARWrapperNativeExample.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libARWrapper.so => libs/x86/libARWrapper.so
+[x86] Install        : libARWrapperNativeExample.so => libs/x86/libARWrapperNativeExample.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libARWrapper.so => libs/mips/libARWrapper.so
+[mips] Install        : libARWrapperNativeExample.so => libs/mips/libARWrapperNativeExample.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars
+[armeabi] Install        : libARWrapper.so => libs/armeabi/libARWrapper.so
+[armeabi] Install        : libARWrapperNativeCarsExample.so => libs/armeabi/libARWrapperNativeCarsExample.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libARWrapper.so => libs/armeabi-v7a/libARWrapper.so
+[armeabi-v7a] Install        : libARWrapperNativeCarsExample.so => libs/armeabi-v7a/libARWrapperNativeCarsExample.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libARWrapper.so => libs/x86/libARWrapper.so
+[x86] Install        : libARWrapperNativeCarsExample.so => libs/x86/libARWrapperNativeCarsExample.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libARWrapper.so => libs/mips/libARWrapper.so
+[mips] Install        : libARWrapperNativeCarsExample.so => libs/mips/libARWrapperNativeCarsExample.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARNativeES1Proj/aRNativeES1
+[armeabi] Install        : libARNativeES1.so => libs/armeabi/libARNativeES1.so
+[armeabi-v7a] Install        : libARNativeES1.so => libs/armeabi-v7a/libARNativeES1.so
+[x86] Install        : libARNativeES1.so => libs/x86/libARNativeES1.so
+[mips] Install        : libARNativeES1.so => libs/mips/libARNativeES1.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARNativeProj/aRNative
+[armeabi] Install        : libARNative.so => libs/armeabi/libARNative.so
+[armeabi-v7a] Install        : libARNative.so => libs/armeabi-v7a/libARNative.so
+[x86] Install        : libARNative.so => libs/x86/libARNative.so
+[mips] Install        : libARNative.so => libs/mips/libARNative.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARNativeOSGProj/aRNativeOSG
+[armeabi] Compile arm    : ARNativeOSGNative <= VirtualEnvironment.c
+[armeabi-v7a] Compile arm    : ARNativeOSGNative <= VirtualEnvironment.c
+[x86] Compile        : ARNativeOSGNative <= VirtualEnvironment.c
+[mips] Compile        : ARNativeOSGNative <= VirtualEnvironment.c
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+[x86] SharedLibrary  : libARNativeOSGNative.so
+[mips] SharedLibrary  : libARNativeOSGNative.so
+[armeabi] SharedLibrary  : libARNativeOSGNative.so
+[armeabi-v7a] SharedLibrary  : libARNativeOSGNative.so
+[x86] Install        : libARNativeOSGNative.so => libs/x86/libARNativeOSGNative.so
+[armeabi-v7a] Install        : libARNativeOSGNative.so => libs/armeabi-v7a/libARNativeOSGNative.so
+[armeabi] Install        : libARNativeOSGNative.so => libs/armeabi/libARNativeOSGNative.so
+[mips] Install        : libARNativeOSGNative.so => libs/mips/libARNativeOSGNative.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/nftSimpleProj/nftSimple
+[armeabi] Install        : libnftSimpleNative.so => libs/armeabi/libnftSimpleNative.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libnftSimpleNative.so => libs/armeabi-v7a/libnftSimpleNative.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libnftSimpleNative.so => libs/x86/libnftSimpleNative.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libnftSimpleNative.so => libs/mips/libnftSimpleNative.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/nftBookProj/nftBook
+[armeabi] Install        : libnftBookNative.so => libs/armeabi/libnftBookNative.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libnftBookNative.so => libs/armeabi-v7a/libnftBookNative.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libnftBookNative.so => libs/x86/libnftBookNative.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libnftBookNative.so => libs/mips/libnftBookNative.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/ARMovieProj/aRMovie
+[armeabi] Install        : libARMovieNative.so => libs/armeabi/libARMovieNative.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libARMovieNative.so => libs/armeabi-v7a/libARMovieNative.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libARMovieNative.so => libs/x86/libARMovieNative.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libARMovieNative.so => libs/mips/libARMovieNative.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
+from /c/artoolkit5-master3/artoolkit5-master: going to AndroidStudioProjects/calib_opticalProj/calib_optical
+[armeabi] Install        : libcalib_optical_Native.so => libs/armeabi/libcalib_optical_Native.so
+[armeabi] Install        : libc++_shared.so => libs/armeabi/libc++_shared.so
+[armeabi-v7a] Install        : libcalib_optical_Native.so => libs/armeabi-v7a/libcalib_optical_Native.so
+[armeabi-v7a] Install        : libc++_shared.so => libs/armeabi-v7a/libc++_shared.so
+[x86] Install        : libcalib_optical_Native.so => libs/x86/libcalib_optical_Native.so
+[x86] Install        : libc++_shared.so => libs/x86/libc++_shared.so
+[mips] Install        : libcalib_optical_Native.so => libs/mips/libcalib_optical_Native.so
+[mips] Install        : libc++_shared.so => libs/mips/libc++_shared.so
